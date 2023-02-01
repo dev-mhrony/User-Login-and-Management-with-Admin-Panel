@@ -1,6 +1,14 @@
 # User-Login-and-Management-with-Admin-Panel
 
-User Login and Management with Admin Panel
+User Registration & Login and User Management System With admin panel
+
+
+Project Name	    =   User Registration & Login and User Management System With admin panel
+Language Used  	    =   PHP5.6, PHP7.x
+Database	        =   MySQL 5.x
+Interface Design    =	HTML, AJAX,JQUERY,JAVASCRIPT
+Web Browser         =	Mozilla, Google Chrome, IE8, OPERA
+Software	        =   XAMPP / Wamp / Mamp/ Lamp /Laragon (anyone)
 
 ## How to run the User Registration & Login and User Management Project With admin panel Project
 
