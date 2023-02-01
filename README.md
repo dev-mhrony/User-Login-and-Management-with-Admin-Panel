@@ -38,3 +38,9 @@ Username: admin <br/> Password: Watch This (<a href="">Video</a>)
 ## Credential for user panel :
 
 Username: phpgurukulteam@gmail.com <br/> Password : Watch This (<a href="">Video</a>)
+
+
+## Preview 
+![screencapture-localhost-loginsystem-2023-02-01-14_00_27](https://user-images.githubusercontent.com/78216965/215984854-f5ff615f-417b-47a2-a9f0-84ca3b889a30.png)
+
+
