@@ -10,6 +10,17 @@ Interface Design    =	HTML, AJAX,JQUERY,JAVASCRIPT
 Web Browser         =	Mozilla, Google Chrome, IE8, OPERA
 Software	        =   XAMPP / Wamp / Mamp/ Lamp /Laragon (anyone)
 
+
+This is a mini Project. This project describes in two Modules. One is the User module and the second one is the admin panel.
+
+User Module
+In user module, user can register yourself. After Registration user can log in with own email id and password.
+if the user forgot their own password then user can request for password using their own email id.
+User Registration
+User Login
+Forgot Password
+Note: For Forgot password , you have provide your gmail credetails in password-recovery.php. After that email function will work on your localhost.
+
 ## How to run the User Registration & Login and User Management Project With admin panel Project
 
 1. Download the zip file
