@@ -3,12 +3,12 @@
 User Registration & Login and User Management System With admin panel
 
 
-Project Name	    =   User Registration & Login and User Management System With admin panel
-Language Used  	    =   PHP5.6, PHP7.x
-Database	        =   MySQL 5.x
-Interface Design    =	HTML, AJAX,JQUERY,JAVASCRIPT
-Web Browser         =	Mozilla, Google Chrome, IE8, OPERA
-Software	        =   XAMPP / Wamp / Mamp/ Lamp /Laragon (anyone)
+Project Name	    =   User Registration & Login and User Management System With admin panel <br/>
+Language Used  	    =   PHP5.6, PHP7.x <br/>
+Database	        =   MySQL 5.x <br/>
+Interface Design    =	HTML, AJAX,JQUERY,JAVASCRIPT <br/>
+Web Browser         =	Mozilla, Google Chrome, IE8, OPERA <br/>
+Software	        =   XAMPP / Wamp / Mamp/ Lamp /Laragon (anyone) <br/>
 
 
 This is a mini Project. This project describes in two Modules. One is the User module and the second one is the admin panel.
@@ -41,6 +41,7 @@ Username: phpgurukulteam@gmail.com <br/> Password : Watch This (<a href="">Video
 
 
 ## Preview 
+### Home Page
 ![screencapture-localhost-loginsystem-2023-02-01-14_00_27](https://user-images.githubusercontent.com/78216965/215984854-f5ff615f-417b-47a2-a9f0-84ca3b889a30.png)
 
 
